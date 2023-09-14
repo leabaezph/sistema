@@ -1,1 +1,0 @@
-se corrigio el archivo header de  admin empty variable id
